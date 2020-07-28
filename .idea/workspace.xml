@@ -74,22 +74,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1211" height="209" key="GridCell.Tab.0.bottom" timestamp="1595954020322">
+    <state width="1211" height="209" key="GridCell.Tab.0.bottom" timestamp="1595954540922">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1211" height="209" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1595954020322" />
-    <state width="1211" height="209" key="GridCell.Tab.0.center" timestamp="1595954020321">
+    <state width="1211" height="209" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1595954540922" />
+    <state width="1211" height="209" key="GridCell.Tab.0.center" timestamp="1595954540922">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1211" height="209" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1595954020321" />
-    <state width="1211" height="209" key="GridCell.Tab.0.left" timestamp="1595954020320">
+    <state width="1211" height="209" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1595954540922" />
+    <state width="1211" height="209" key="GridCell.Tab.0.left" timestamp="1595954540921">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1211" height="209" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1595954020320" />
-    <state width="1211" height="209" key="GridCell.Tab.0.right" timestamp="1595954020321">
+    <state width="1211" height="209" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1595954540921" />
+    <state width="1211" height="209" key="GridCell.Tab.0.right" timestamp="1595954540922">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1211" height="209" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1595954020321" />
+    <state width="1211" height="209" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1595954540922" />
     <state x="490" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1595948159138">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
@@ -100,6 +100,6 @@
     <state x="291" y="80" width="670" height="676" key="search.everywhere.popup/0.23.1440.813@0.23.1440.813" timestamp="1595953284561" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/COVID_19_Dashboard$COVID_19_Dashboard.coverage" NAME="COVID-19 Dashboard Coverage Results" MODIFIED="1595953685947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/COVID_19_Dashboard$COVID_19_Dashboard.coverage" NAME="COVID-19 Dashboard Coverage Results" MODIFIED="1595954540914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>

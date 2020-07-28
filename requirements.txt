@@ -1,5 +1,5 @@
 bokeh==1.3.4
-flask
+flask==0.25.1
 pandas
 gunicorn
 geopandas
