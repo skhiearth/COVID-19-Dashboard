@@ -89,7 +89,7 @@ def plot_data(_country, _date, typeOfData):
 
     geosource = GeoJSONDataSource(geojson=json_data)
 
-    palette = brewer["YlGnBu"][6]
+    palette = brewer["YlGnBu"][8]
     palette = palette[::-1]
 
     color_mapper = LinearColorMapper(palette=palette, low=dateSub[typeOfData].min(),

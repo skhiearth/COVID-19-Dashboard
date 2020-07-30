@@ -15,6 +15,8 @@
 
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        <link href="https://fonts.googleapis.com/css2?family=Eczar:wght@700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Eczar&family=Trirong&display=swap" rel="stylesheet">
         <title>SARS-CoV-2 Trends Dashboard</title>
 
         <script data-ad-client="ca-pub-9363193135908035" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -25,15 +27,24 @@
             enable_page_level_ads: true
           });
         </script>
+
+        <style type="text/css">
+        	body{
+        		text-align: center;
+        		background: #757F9A;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #D7DDE8, #757F9A);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #D7DDE8, #757F9A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+        	}
+        </style>
     </head>
 
     <body>
 
-        <nav class="navbar navbar-dark bg-primary">
-            <span class="navbar-brand mb-0 h1">COVID-19 Trends Dashboard</span>
-        </nav>
+        
+            <h1 style="text-align: center; background-color: black; padding-top: 10px; padding-bottom: 10px; color: white; font-family: 'Eczar', serif;">COVID-19 Trends Dashboard</h3>
 
-        <div style="background:transparent !important" class="jumbotron">
+        <div style="background:transparent !important" class="jumbotron" style="font-family: 'Trirong', serif;">
             <h5 class="display-5">Visualisation to keep track of total nCov cases, deaths and recoveries by country.</h5>
             <p></p><p></p>
             <h7>Select Country/Region: </h7>
@@ -79,13 +90,13 @@
 
         </div>
 
-        <nav class="navbar fixed-bottom navbar-light" style="background-color: #e3f2fd;">
+        <footer class="fixed-bottom" style="background-color: #757F9A;font-family: 'Trirong', serif; text-align: center; padding-top: 5px;">
             <span class="navbar-text">
                 Note: All visualisation are experimental - not responsible for any discrepancies
-                | <a href="https://github.com/datasets/covid-19">Data Source (JHU CSSE)</a>
-                | Made with <span style="color: #e25555;">&#9829;</span> in India by <a href="https://www.skhiearth.tech/">skhiearth</a> ◢ ◤ <a href="https://ygarg704.github.io/">Yash Garg</a>
+                | <a href="https://github.com/datasets/covid-19" style="color: white;">Data Source (JHU CSSE)</a>
+                <p>Made with <span style="color: #e25555;">&#9829;</span> in India by <a href="https://www.skhiearth.tech/" style="color: white;">skhiearth</a> ◢ ◤ <a href="https://ygarg704.github.io/" style="color: white;">Yash Garg</a></p>
             </span>
-        </nav>
+        </footer>
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/bokeh/1.3.4/bokeh.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/bokeh/1.3.4/bokeh-widgets.min.js"></script>
