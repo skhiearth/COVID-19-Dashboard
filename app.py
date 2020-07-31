@@ -7,7 +7,7 @@ from bokeh.palettes import brewer
 from bokeh.models.tools import HoverTool
 from bokeh.embed import components
 import geopandas as gpd
-import numpy as np
+import numpy as nppi
 import json
 from datetime import datetime
 from datetime import date
